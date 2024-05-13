@@ -1,0 +1,31 @@
+header {
+    background-color: aqua;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav li {
+    display: inline-block;
+    margin: 15px;
+}
+aside {
+    text-align: center;
+    background-color: gray;
+    width: 95px;
+    padding: 20px;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 2;
+    padding: 20px;
+    text-align: center;
+}
+footer {
+    background-color: aqua;
+    color: black;
+    text-align: center;
+
+}
